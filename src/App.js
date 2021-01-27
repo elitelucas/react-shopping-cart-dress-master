@@ -45,7 +45,7 @@ class App extends React.Component {
           i.setAttribute('data-amount', data.order.amount);
           i.setAttribute('data-currency', data.order.currency);
           i.setAttribute('data-order_id', data.order.id);
-          i.setAttribute('data-name', "Elison Shop");
+          i.setAttribute('data-name', "Google Club");
           i.setAttribute('data-description', "Transaction");
           i.setAttribute('data-image', "");
           i.setAttribute('data-prefill.name', data.email.substr(0, (data.email.indexOf("@") - 1)));
@@ -154,7 +154,7 @@ class App extends React.Component {
       i.setAttribute('data-amount', data.order.amount);
       i.setAttribute('data-currency', data.order.currency);
       i.setAttribute('data-order_id', data.order.id);
-      i.setAttribute('data-name', "Elison Shop");
+      i.setAttribute('data-name', "Google Club");
       i.setAttribute('data-description', "Transaction");
       i.setAttribute('data-image', "");
       i.setAttribute('data-prefill.name', data.email.substr(0, (data.email.indexOf("@") - 1)));
@@ -191,7 +191,7 @@ class App extends React.Component {
     return (
       <div className="grid-container">
         <header>
-          <a href="/">Elison Shopping Cart</a>
+          <a href="/">Google Club Shopping Cart</a>
           <a href="/login" style={{float:'right'}}>login</a>
         </header>
         <main>
