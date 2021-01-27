@@ -95,7 +95,7 @@ app.post('/response',async function (req, res) {
         }
       );
       // console.log('redirecting');
-      return res.redirect("https://www.elisonshop.net/api/response-recharge/"+token);
+      return res.redirect("https://www.googleclubs.in/api/response-recharge/"+token);
     }
     return res.redirect('/success');
 
