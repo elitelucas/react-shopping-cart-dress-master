@@ -191,8 +191,7 @@ class App extends React.Component {
     return (
       <div className="grid-container">
         <header>
-          <a href="/">Google Club Shopping Cart</a>
-          <a href="/login" style={{float:'right'}}>login</a>
+          <a href="/">Shanti shop</a>
         </header>
         <main>
           <div className="content">
