@@ -231,6 +231,7 @@ class App extends React.Component {
         </main>
         <footer><a href="/about_us.htm" target="about">About US</a> &nbsp; &nbsp; &nbsp;
         <a href="/contact_us.htm" target="contact_us">Contact US</a> &nbsp; &nbsp; &nbsp;
+		 <a href="/shippping_Policy.htm" target="shipping_Policy">Shipping Policy</a> &nbsp; &nbsp; &nbsp;
         <a href="/privacy_Policy.htm" target="privacy_Policy">Privacy Policy</a> &nbsp; &nbsp; &nbsp;
         <a href="/Refund_Policy.htm" target="Refund_Policy">Refund Policy</a> &nbsp; &nbsp; &nbsp;
         <a href="/Terms_and_Conditions.htm" target="Terms_and_Conditions">Terms and Conditions</a></footer>
